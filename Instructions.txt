@@ -1,0 +1,30 @@
+### Prerequisites
+
+- Python version =  3.11.5
+- Node version = V20.9.0
+
+### Installation
+
+**Set up the virtual environment (for Python):**
+
+
+    python -m venv venv
+    source venv/bin/activate  # On Linux/Mac
+
+    .\venv\Scripts\activate  # On Windows
+
+
+**Install Python dependencies:**
+
+    pip install -r requirements.txt
+
+
+**Set up the frontend**
+
+    cd frontend
+    npm install
+
+
+## RUN THE PROJECT
+--(Make sure to activate venv)
+
